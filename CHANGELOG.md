@@ -1,5 +1,10 @@
 # Changelog for **XGaming-Connector**
 
+## [1.2.3] - 2026-02-04
+
+### Fixed
+- feat: 접속창 문구 수정
+
 ## [1.2.2] - 2026-02-02
 
 ### Added
