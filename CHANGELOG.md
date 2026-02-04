@@ -1,5 +1,11 @@
 # Changelog for **XGaming-Connector**
 
+## [1.2.4] - 2026-02-05
+
+### Fixed
+- feat: -1 에러일때도 로그아웃 되도록 수정
+- change: 버튼 가이드 디자인 수정
+
 ## [1.2.3] - 2026-02-04
 
 ### Fixed
