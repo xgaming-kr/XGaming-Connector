@@ -1,5 +1,10 @@
 # Changelog for **XGaming-Connector**
 
+## [1.2.5] - 2026-03-14
+
+### Fixed
+- fixed: 최초 설치 후 pin 실패하는 문제 수정
+
 ## [1.2.4] - 2026-02-05
 
 ### Fixed
