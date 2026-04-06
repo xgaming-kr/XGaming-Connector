@@ -1,5 +1,10 @@
 # Changelog for **XGaming-Connector**
 
+## [1.3.0] - 2026-04-06
+
+### Fixed
+- fixed: xgaming-connector-pc에서 게임서버가 GFE인 경우 pin 전달 방식 변경으로 인해 수정
+
 ## [1.2.6] - 2026-03-17
 
 ### Fixed
