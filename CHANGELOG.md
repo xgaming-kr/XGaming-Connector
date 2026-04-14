@@ -1,5 +1,11 @@
 # Changelog for **XGaming-Connector**
 
+## [1.4.2] - 2026-04-14
+
+### Fixed
+- fix: 페어링 전 사전 정리 + 모든 실패 상태 재시도 (Android 동작 일치)
+- feat: 마우스 최적화(절대좌표) 옵션 기본 활성화
+
 ## [1.4.0] - 2026-04-14
 
 ### Fixed
