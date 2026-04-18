@@ -1,5 +1,10 @@
 # Changelog for **XGaming-Connector**
 
+## [1.4.3] - 2026-04-19
+
+### Fixed
+- fix: GFE 원격 pc 재접속시 이전 cert 로 접속 되도록 수정(이전 세션 계정별로 로컬 저장 로직 추가)
+
 ## [1.4.2] - 2026-04-14
 
 ### Fixed
