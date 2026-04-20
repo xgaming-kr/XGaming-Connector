@@ -1,5 +1,13 @@
 # Changelog for **XGaming-Connector**
 
+## [1.5.0] - 2026-04-20
+
+### Added
+- feat: 자동사냥 reconnect 완성 — 호스트 serverCert를 사용자별로 영구 저장하여 접속기 재실행 시 PIN 인증 없이 자동 재접속
+
+### Fixed
+- fix: GFE/원격 PC agent 재설치 후 재접속 시 launch SSL 타임아웃 문제 — serverinfo의 paired 상태를 검증해 unpaired면 cert 폐기 후 정상 페어링으로 fallback
+
 ## [1.4.3] - 2026-04-19
 
 ### Fixed
